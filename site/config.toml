@@ -1,4 +1,4 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
-theme = "test-xmag"
+theme = "hugo-xmag"
